@@ -1,6 +1,6 @@
 function isNotEmpty(value, fieldName) {
     if (value === null || value.trim() === "") {
-        return fieldName + " không được để trống";
+        return fieldName + " không được để trống ";
     }
     return "";
 }
