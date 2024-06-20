@@ -14,7 +14,6 @@ tinhTongLuong = function (chucVu, luongCB) {
         default:
             return luongCB
     }
-    return luongCB
 }
 
 //6. phương thức xếp loại nhân viên
